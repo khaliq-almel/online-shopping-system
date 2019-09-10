@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Online Shopping</title>
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.2/css/all.css" integrity="sha384-rtJEYb85SiYWgfpCr0jn174XgJTn4rptSOQsMroFBPQSGLdOC5IbubP6lJ35qoM9" crossorigin="anonymous">
+
+    <link href="static/styles/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+
+    <!-- navbar-->
+    <nav class="navbar">
+        <div class="navbar-center">
+            <span class="nav-icon">
+               <i class="fas fa-bars"></i>
+           </span>
+            <div class="search-container">
+                <form action="/search">
+                    <input id="result" type="text" value="" placeholder="Search.." name="query">
+                    <button type="submit" id="form-btn"><i class="fa fa-search"></i></button>
+
+                </form>
+
+
+            </div>
+            <div class="search-container">
+                <button onclick="startConverting(); setTimeout(ssearch,8000);">
+                <span class="nav-icon">
+                    <i class="fas fa-microphone"></i>
+                 </span></button>
+            </div>
+            <div>
+                <span>
+                    <i class="fas  fa-user-circle"></i>
+                </span>
+            </div>
+            <div class="cart-btn">
+                <span class="nav-icon">
+                   <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- end of navbar-->
+
+    <!-- hero-->
+
+    <header class="hero" style="background: 'url(static/images/hero-bcg.jpeg)'">
+        <div class="banner">
+            <h1 class="banner-title">Online Shopping</h1>
+            <a href="#nothing" class="banner-btn">Shop Now</a>
+        </div>
+    </header>
+    <!-- end of hero -->
+
+    <!-- products -->
+    <section class="products" id="nothing">
+        <div class="section-title">
+            <h2>Our Produts</h2>
+        </div>
+        <div class="products-center">
+            <!-- single product -
+            <article class="product">
+                <div class="img-container">
+                    <img src="static/images/product-1.jpeg" alt="product" class="product-img" />
+                    <button class="bag-btn" data-id="1">
+                         <i class="fas fa-shopping-cart"></i>
+                         add to cart
+                     </button>
+                </div>
+                <h3>Queen Bed</h3>
+                <h4>$000</h4>
+            </article>
+
+            < end of single product -->
+
+
+        </div>
+
+    </section>
+    <!-- end of products -->
+
+    <!-- cart-->
+    <div class="cart-overlay">
+        <div class="cart">
+            <span class="close-cart">
+                <i class="fas fa-window-close"></i>
+            </span>
+            <h2>Your Cart</h2>
+            <div class="cart-content">
+                <!-- cart item
+                <div class="cart-item">
+                    <img src="static/images/product-1.jpeg" alt="product1">
+                    <div>
+                        <h4>Queen Bed </h4>
+                        <h5>$00</h5>
+                        <span class="remove-item">remove</span>
+
+                    </div>
+                    <div>
+                        <i class="fas fa-chevron-up"></i>
+                        <p class="item-amount">1</p>
+                        <i class="fas fa-chevron-down"></i>
+                    </div>
+                </div>
+                 end of the cart item-->
+            </div>
+            <div class="cart-footer">
+                <h3>your total : $<span class="cart-total">00</span></h3>
+                <button class="clear-cart banner-btn">Clear Cart</button>
+
+            </div>
+
+
+        </div>
+    </div>
+    <!-- end of the cart -->
+
+    <script src="static/js/main.js"></script>
+
+</body>
+
+</html>

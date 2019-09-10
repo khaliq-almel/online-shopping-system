@@ -1,0 +1,198 @@
+{
+    "items": [{
+            "sys": {
+                "id": "1000"
+            },
+            "fields": {
+                "title": "Redmi 7 (Comet Blue, 2GB RAM, 32GB Storage) ",
+                "price": "107.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1000.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+        {
+            "sys": {
+                "id": "1002"
+            },
+            "fields": {
+                "title": "Samsung Galaxy Note 10 (Aura Red, 8GB RAM, 256GB Storage) ",
+                "price": "1000.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1002.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1003"
+            },
+            "fields": {
+                "title": "Samsung Galaxy Note 10+ (Aura Glow, 12GB RAM, 256GB Storage)",
+                "price": "1142.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1003.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1004"
+            },
+            "fields": {
+                "title": "OnePlus 7 (Mirror Blue, 6GB RAM, 128GB Storage) ",
+                "price": "471.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1004.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1005"
+            },
+            "fields": {
+                "title": "OnePlus 7 Pro (Almond, 8GB RAM, 256GB Storage) ",
+                "price": "757.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1005.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1006"
+            },
+            "fields": {
+                "title": "OnePlus 7 (Red, 8GB RAM, 256GB Storage) ",
+                "price": "542.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1006.jpg"
+                        }
+                    }
+                }
+            }
+        },
+
+
+        {
+            "sys": {
+                "id": "1010"
+            },
+            "fields": {
+                "title": "Apple iPhone Xs (512GB) - Silver",
+                "price": "1914.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1010.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1011"
+            },
+            "fields": {
+                "title": "Apple iPhone XR (64GB) (Product) RED ",
+                "price": "857.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1011.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1008"
+            },
+            "fields": {
+                "title": "Nokia 8.1 (Iron, 4GB RAM, 64GB Storage) ",
+                "price": "242.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1008.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1009"
+            },
+            "fields": {
+                "title": "OPPO F9 Pro (Twilight Blue, 6GB RAM, 64GB Storage)",
+                "price": "257.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1009.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1001"
+            },
+            "fields": {
+                "title": "Samsung Galaxy M20 (Charcoal Black, 4+64GB) ",
+                "price": "171.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1001.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "1007"
+            },
+            "fields": {
+                "title": "Redmi 6 Pro (Blue, 4GB RAM, 64GB Storage) ",
+                "price": "157.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/mobile-1007.jpg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

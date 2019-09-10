@@ -1,0 +1,244 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "Echo (2nd Generation) - Smart speaker with Alexa and Dolby processing - Charcoal Fabric",
+                "price": 99.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-1.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "Potensic T18 GPS Drone, FPV RC Quadcotper with Camera 1080P Live Video, Dual GPS Return Home",
+                "price": 149.98,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "Timex Unisex Weekender 38mm Watch ",
+                "price": 30.55,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-3.jpeg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "All-new Kindle - Now with a Built-in Front Light - Black - Includes Special Offers ",
+                "price": 89.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-4.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "HP OfficeJet 3830 All-in-One Wireless Printer, HP Instant Ink",
+                "price": 49.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-5.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "Acer Aspire 5 Slim Laptop, 15.6 Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD",
+                "price": 309.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-6.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "Intel Core i7-9700K Desktop Processor 8 Cores up to 4.9 GHz Turbo unlocked LGA1151 300 Series 95W",
+                "price": 339.95,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-7.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "HP 23.8-inch FHD IPS Monitor with Tilt/Height Adjustment and Built-in Speakers (VH240a, Black)",
+                "price": 109.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-8.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "9"
+            },
+            "fields": {
+                "title": "HP 63 | 2 Ink Cartridges | Black, Tri-color | F6U61AN, F6U62AN ",
+                "price": "45.89",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-9.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "10"
+            },
+            "fields": {
+                "title": "Apple iPhone Xs Max, GSM Unlocked 256GB - Space Gray - (Renewed)",
+                "price": "1299.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-10.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "11"
+            },
+            "fields": {
+                "title": "Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control",
+                "price": "349.00",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-11.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "12"
+            },
+            "fields": {
+                "title": "Sonos Play:1 - Compact Wireless Smart Speaker - Black",
+                "price": "149.00",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-12.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "13"
+            },
+            "fields": {
+                "title": "Fujifilm Instax Mini Instant Film Value Pack - (60 Total Pictures)",
+                "price": "30.90",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-13.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "14"
+            },
+            "fields": {
+                "title": "Fujifilm Instax Mini 70 - Instant Film Camera (Blue)",
+                "price": "49.90",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-14.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "15"
+            },
+            "fields": {
+                "title": "Texas Instruments TI-84 Plus CE Graphing Calculator, Black",
+                "price": "130.99",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/product-15.jpg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
